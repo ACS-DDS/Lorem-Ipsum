@@ -1,4 +1,4 @@
-<?php require_once("li.php");$li = new LoremIpsum();?>
+<?php require_once(".classes/controller.php");$li = new Controller();?>
 <!DOCTYPE html>
 <html>
 	<head>
